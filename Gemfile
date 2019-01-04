@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-ruby '2.1.4'
+ruby '2.3.7'
 
 # Regular gems
-gem 'rails', '~> 4.2.1'
+gem 'rails', '~> 5.2.1'
 gem 'rack', '~> 1.4'
 gem 'puma', '~> 2.9'
 gem 'rack-timeout', '~> 0.0.4'
